@@ -26,7 +26,7 @@ body {
 }
 
 .special-heading {
-  font-size: 100px;
+  font-size: 6.25rem;
   font-weight: 800;
   color: #ebeced;
   text-align: center;
@@ -35,13 +35,13 @@ body {
 
 @media (max-width: 767px) {
 .special-heading {
-    font-size: 60px;
+    font-size: 3.75rem;
   }
 }
 
 .special-heading + p {
   text-align: center;margin: -30px 0 0;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 /* small */
@@ -381,7 +381,7 @@ body {
 
 .about .text {
   width: calc(100% - 500px);
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.8rem;
 }
 
@@ -424,7 +424,7 @@ body {
 .contact .contact-content {
   text-align: center;
   margin-top: 60px;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 
@@ -466,7 +466,7 @@ body {
   text-align: center;
   color: white;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 1.125rem;
 }
 
 .footer .container span {
@@ -474,4 +474,3 @@ body {
 }
 
 /* end contact */
-
