@@ -169,8 +169,8 @@ body {
 }
 /* header: end ul links */
 /* end header */
-/* leading start */
-.leading {
+/* landing start */
+.landing {
   background-image: url("/images/landing.jpg");
   background-size: cover;
   width: 100vw;
@@ -178,7 +178,7 @@ body {
   position: relative;
 }
 
-.leading .container {
+.landing .container {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -186,19 +186,19 @@ body {
   transform: translate(-50%, -50%);
   width: 320px;
 }
-.leading h1{
+.landing h1{
   margin: 0;
   font-size: 3.125rem;
   font-weight: 800;
   color: var(--main-color);
 }
 
-.leading p{
+.landing p{
   margin: 15px 0;
   line-height: 1.8;
   font-size: 1.17rem;
 }
-/* leading end */
+/* landing end */
 /* feature start */
 .feature {
   background-color: #f6f6f6;
