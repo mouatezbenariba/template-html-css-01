@@ -225,31 +225,11 @@ body {
   margin-top: 25px;
 }
 
-
 .feature .container .feat p {
   line-height: 1.9;
   margin-top: 25px;
 }
-/* feature end */
-/* services start */
-/* .services .container .services-content {
-  display: grid;
-  gap: 30px;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-}
-.services {
-  padding-top: 20px;
-  width: 100vw;
-  height: 100vh;
-}
 
-.services .container .special-heading {
-  font-size: 100px;
-  letter-spacing: -6px;
-  font-weight: 800;
-  text-align: center;
-  color: #eee;
-} */
 .services {
   padding-top: 60px;
   padding-bottom: 60px;
