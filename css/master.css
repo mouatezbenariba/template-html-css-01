@@ -446,6 +446,7 @@ body {
 
 .contact .social span {
   position: absolute;
+  color: black;
   z-index: -9999;
 }
 
