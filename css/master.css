@@ -83,7 +83,8 @@ body {
 }
 
 .header .logo img {
-  width: 100%;
+  width: 60px;
+  height: 24px;
 }
 /* header: end logo */
 
