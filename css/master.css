@@ -427,8 +427,8 @@ body {
 
 .contact a {
   text-decoration: none;
-  color: var(--main-color);
-  font-weight: 800;
+  color: #11c0ae;
+  font-weight: 600;
 }
 
 .contact i {
