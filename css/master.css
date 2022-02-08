@@ -440,6 +440,15 @@ body {
   display: inline-block;
 }
 
+.contact .social {
+  position: relative;
+}
+
+.contact .social span {
+  position: absolute;
+  z-index: -9999;
+}
+
 @media (max-width: 768px) {
   .contact .contact-content {
     font-size: 1.2rem;
