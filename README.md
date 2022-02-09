@@ -47,10 +47,11 @@ Areas and concepts that I want to continue focusing on in future projects :
 - [Purify CSS Online](https://purifycss.online/) - This helped me removing unused CSS code.
 - [Unminify](https://unminify.com/) - This helped me unminify CSS HTML code.
 - [Web.dev](https://web.dev/) - Contains very helpful articles.
+- [webAIM](https://webaim.org/resources/contrastchecker/) - This helped me checking the contrast between the Foreground Color and the Background Color.
 
 ## Author
 
-- Linkedin - [Elmouatez Billah Benariba](https://www.your-site.com)
+- Linkedin - [Elmouatez Billah Benariba](https://www.linkedin.com/in/mouatezbenariba/)
 - Twitter - [@mouatezbenariba](https://www.linkedin.com/in/mouatezbenariba)
 
 ## Acknowledgments
