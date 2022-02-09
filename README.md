@@ -52,7 +52,7 @@ Areas and concepts that I want to continue focusing on in future projects :
 ## Author
 
 - Linkedin - [Elmouatez Billah Benariba](https://www.linkedin.com/in/mouatezbenariba/)
-- Twitter - [@mouatezbenariba](https://www.linkedin.com/in/mouatezbenariba)
+- Twitter - [@mouatezbenariba](https://twitter.com/mouatezbenariba)
 
 ## Acknowledgments
 - I would like to express my special thanks of gratitude to eng [Osama Mohamed](https://github.com/OsamaElzero).
