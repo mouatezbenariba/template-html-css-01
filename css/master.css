@@ -140,19 +140,20 @@ body {
   display: none;
 }
 
-.header .links:hover ul {
-  display: block;
-}
-
 @media screen and (max-width:1025px) {
   .header .links:focus ul {
     display: block;
   }
+  .header .links ul:hover {
+    display: block;
+  }
 }
 
-/* @media screen and (min-width:1025px) {
-
-} */
+@media screen and (min-width:1025px) {
+.header .links:hover ul {
+  display: block;
+}
+}
 
 .header .links ul::before {
   content: "";
