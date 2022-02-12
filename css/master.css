@@ -180,6 +180,7 @@ body {
   height: calc(100vh - 68px);
   background-image: url("../images/landing.webp");
   background-size: cover;
+  background-attachement: fixed;
 }
 
 .landing .container {
