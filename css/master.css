@@ -167,6 +167,7 @@ body {
   padding: 15px;
   font-size: 1.2rem;
   transition-duration: 0.3s;
+  text-align: center;
 }
 
 .header .links ul li:hover {
