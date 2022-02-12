@@ -146,6 +146,12 @@ body {
   }
 }
 
+@media screen and (min-width:1025px) {
+  .header .links:hover ul {
+    display: block;
+  }
+}
+
 .header .links ul::before {
   content: "";
   display: inline-block;
