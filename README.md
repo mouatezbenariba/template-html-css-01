@@ -37,6 +37,7 @@
 - It is not possible to use different types of styles in GitHub markdown : [source](https://stackoverflow.com/questions/65508832/how-to-use-margin-padding-in-github-readme-md)
 - How to Create a Drop Down Menu on click using the "Button" hack : [source](https://stackoverflow.com/questions/18786546/creating-drop-down-menu-on-click-css)
 - How TO - Parallax Scrolling [source](https://www.w3schools.com/howto/howto_css_parallax.asp)
+- Button title vs aria-label: The title - attribute Is used if your mouse go over the button and shows the text of title as a tooltip. With aria-label is not supported in this way : [source](https://stackoverflow.com/questions/27953425/what-is-the-difference-between-aria-label-and-title-attributes)
 
 ### Continued development
 
