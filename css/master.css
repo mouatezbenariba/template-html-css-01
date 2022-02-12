@@ -90,6 +90,8 @@ body {
 
 .header .links {
   position: relative;
+  background-color: transparent;
+  border: none;
 }
 
 /* header: start icon */
