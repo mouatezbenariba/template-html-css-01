@@ -3,7 +3,7 @@
   --main-color: #10cab7;
   --secondary-color: #2c4755;
   --tertiary-color: #f6f6f6;
-  --section-padding:60px 0;
+  --section-padding:50px 0;
   font-size: 16px;
 }
 
@@ -41,7 +41,7 @@ body {
 
 .special-heading + p {
   text-align: center;
-  margin: -14px 0 0;
+  margin: -4px 0 0;
   font-size: 1.25rem;
 }
 
