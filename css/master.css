@@ -144,6 +144,12 @@ body {
   display: block;
 }
 
+@media screen and (min-width:768px) {
+  .header .links:focus ul {
+    display: block;
+  }
+}
+
 .header .links ul::before {
   content: "";
   display: inline-block;
