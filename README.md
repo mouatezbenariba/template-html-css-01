@@ -28,7 +28,7 @@
 ### What I learned
 
 - :before and :after pseudo elements do not work with `img` elements : [source](https://stackoverflow.com/questions/7396469/why-dont-before-and-after-pseudo-elements-work-with-img-elements)
-- Wraping Fontawsome Icons elements in anchor tag make them clikable : [source](https://stackoverflow.com/questions/26814297/want-to-make-font-awesome-icons-clickable)
+- Wraping Fontawsome Icons elements in anchor tag make them clickable : [source](https://stackoverflow.com/questions/26814297/want-to-make-font-awesome-icons-clickable)
 - z-index is relative to the elements of the same stacking context : [source](https://stackoverflow.com/questions/2503705/how-to-get-a-child-element-to-show-behind-lower-z-index-than-its-parent)
 - Get a child element to show behind its parent using translateZ();-"child" and "transform-style: preserve-3d;"-parent : [source](https://stackoverflow.com/questions/2503705/how-to-get-a-child-element-to-show-behind-lower-z-index-than-its-parent)
 - The border need to belong to the element not a parent element in order to consider box-sizing : [source](https://stackoverflow.com/questions/54389658/pseudo-element-not-full-container-width-when-border-used)
