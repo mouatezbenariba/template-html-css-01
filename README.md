@@ -35,6 +35,8 @@
 - Q: Pseudo element not full container width when border used? : [source](https://stackoverflow.com/questions/54389658/pseudo-element-not-full-container-width-when-border-used)
 - Role of normalization in CSS : Normalizing css tries to even out the differences between browsers when rendering html-elements. Many browser have "pre-settings": p and h-elements have vertical margins, lists have some margin and padding too. em and strong tags have bold font-weight. All this pre-settings are reset, so that you have a consistent working-base in all the browsers : [source](https://stackoverflow.com/questions/11578280/what-exactly-does-normalization-in-css-do)
 - It is not possible to use different types of styles in GitHub markdown : [source](https://stackoverflow.com/questions/65508832/how-to-use-margin-padding-in-github-readme-md)
+- How to Create a Drop Down Menu on click using the "Button" hack : [source](https://stackoverflow.com/questions/18786546/creating-drop-down-menu-on-click-css)
+- How TO - Parallax Scrolling [source](https://www.w3schools.com/howto/howto_css_parallax.asp)
 
 ### Continued development
 
