@@ -140,11 +140,7 @@ body {
   display: none;
 }
 
-.header .links:hover ul {
-  display: block;
-}
-
-@media screen and (min-width:768px) {
+@media screen and (max-width:1025px) {
   .header .links:focus ul {
     display: block;
   }
