@@ -416,6 +416,9 @@ body {
     width: 100%;
     text-align: center;
   }
+  .about .text hr {
+    margin: 40px auto;
+  }
   .about .image {
     margin: 0 auto 60px;
   }
