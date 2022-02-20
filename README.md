@@ -54,9 +54,12 @@ Areas and concepts that I want to continue focusing on in future projects :
 - [webAIM](https://webaim.org/resources/contrastchecker/) - This helped me checking the contrast between the Foreground Color and the Background Color.
 
 ## Author
+- [Graphberry - graphic resource](https://www.graphberry.com/)
 
+## Cloned By
 - Linkedin - [Elmouatez Billah Benariba](https://www.linkedin.com/in/mouatezbenariba/)
 - Twitter - [@mouatezbenariba](https://twitter.com/mouatezbenariba)
+- Instagram - [@mouatez.benariba](https://www.instagram.com/mouatez.benariba/)
 
 ## Acknowledgments
 - I would like to express my special thanks of gratitude to eng [Osama Mohamed](https://github.com/OsamaElzero).
