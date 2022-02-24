@@ -14,7 +14,6 @@
 
 ### Links
 
-- Solution URL: [HTML/CSS Template 01](https://github.com/mouatezbenariba/template-html-css-01)
 - Live Site URL: [Leon Template](https://mouatezbenariba.github.io/template-html-css-01/)
 
 ### Built with
